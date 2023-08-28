@@ -8,42 +8,42 @@ const Facilities = () =>{
 const facilities = [
     {
         id:1,
-        logo: "<FaArrowUpRightDots />",
+        logo: <FaArrowUpRightDots />,
         type : 'Pick Up & Drop',
         description : 'We’ll pick up from airport while you comfy on your ride, mus nellentesque habitant.'
 
     },
     {
         id:2,
-        logo: "<FaCookieBite />",
+        logo: <FaCookieBite />,
         type : 'Breakfast',
         description : 'Eat tincidunt nisa ace park norttito sit amet space, mus nellentesque habitant'
 
     },
     {
         id:3,
-        logo: "<FaWifi />",
+        logo: <FaWifi />,
         type : 'Fibre Internet',
         description : 'Wifi tincidunt nis ace park norttito sit amet space, mus nellentesque habitant.'
 
     },
     {
         id:4,
-        logo: "<FaPersonSwimming />",
+        logo: <FaPersonSwimming />,
         type : 'Swimming Pool',
         description : 'Swimming pool tincidunt nise ace park norttito sit space, mus nellentesque habitant.'
 
     },
     {
         id:5,
-        logo: "<FaHouseFlag />",
+        logo: <FaHouseFlag />,
         type : 'Room Service',
         description : 'Room tincidunt nis ace park norttito sit amet space, mus nellentesque habitant.'
 
     },
     {
         id:6,
-        logo:"<FaCarRear />",
+        logo:<FaCarRear />,
         type : 'Parking Space',
         description : 'Fusce tincidunt nis ace park norttito sit amet space, mus nellentesque habitant.'
 
