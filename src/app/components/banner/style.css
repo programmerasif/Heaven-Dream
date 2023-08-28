@@ -1,0 +1,7 @@
+.banner{
+   
+    background-image:
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.43)),
+    url('../../assets/banner1.jpg');
+    background-size: cover;
+}
