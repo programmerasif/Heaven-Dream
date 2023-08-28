@@ -23,7 +23,7 @@ const Navbr = () =>{
       </div>
       <button
         onClick={toggleMenu}
-        className="md:hidden me-auto text-white focus:outline-none"
+        className="md:hidden me-auto text-white text-2xl focus:outline-none"
       >
         {isOpen ? <FaXmark /> : <FaBars />}
       </button>
