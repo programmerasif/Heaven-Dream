@@ -13,29 +13,29 @@ const Rooms = () =>{
         <div className="grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 justify-center items-center mx-auto w-full md:w-[80%] gap-5 px-2">
             
             <div className="border-2 border-gray-100 hover:-translate-y-1 hover:scale-110 hover:shadow-md duration-300 hover:rounded-md">
-                <img src='room1.jpg' className='h-[21rem] md:h-[23rem] hover:rounded-md'/>
+                {/* <img src='room1.jpg' className='h-[21rem] md:h-[23rem] hover:rounded-md'/> */}
                 <div className='p-5'>
                     <h5 className="text-2xl font-semibold">Deluxe Dark Room</h5>
-                <p className="text-gray-600 mt-5">3 adult(s) and 2 child(ern)</p>
-                <p className="text-gray-600 mt-5">"Deluxe Dark Room" - A sleek, upscale space with sophisticated ambiance and low lighting, catering to various experiences.</p>
+                <p className="text-gray-600 mt-5">{`3 adult(s) and 2 child(ern)`}</p>
+                <p className="text-gray-600 mt-5">{`Deluxe Dark Room" - A sleek, upscale space with sophisticated ambiance and low lighting, catering to various experiences.`}</p>
                 <button className='w-full py-3 border-2 border-[#ffa000] mt-5 hover:bg-[#ffa000] hover:text-white duration-300'> Book Now</button>
                 </div>
             </div>
             <div className="border-2 border-gray-100 hover:-translate-y-1 hover:scale-110 hover:shadow-md duration-300 hover:rounded-md">
-                <img src='/room2.jpg' className='h-[23rem] hover:rounded-md'/>
+                {/* <img src='/room2.jpg' className='h-[23rem] hover:rounded-md'/> */}
                 <div className='p-5'>
                     <h5 className="text-2xl font-semibold">Deluxe Dark Room</h5>
-                <p className="text-gray-600 mt-5">3 adult(s) and 2 child(ern)</p>
-                <p className="text-gray-600 mt-5">"Deluxe Dark Room" - A sleek, upscale space with sophisticated ambiance and low lighting, catering to various experiences.</p>
+                <p className="text-gray-600 mt-5">{`3 adult(s) and 2 child(ern)`}</p>
+                <p className="text-gray-600 mt-5">{`"Deluxe Dark Room" - A sleek, upscale space with sophisticated ambiance and low lighting, catering to various experiences.`}</p>
                 <button className='w-full py-3 border-2 border-[#ffa000] mt-5 hover:bg-[#ffa000] hover:text-white duration-300'> Book Now</button>
                 </div>
             </div>
             <div className="border-2 border-gray-100 hover:-translate-y-1 hover:scale-110 hover:shadow-md duration-300 hover:rounded-md">
-                <img src='/room3.png' className='h-[23rem] hover:rounded-md'/>
+                {/* <img src='/room3.png' className='h-[23rem] hover:rounded-md'/> */}
                 <div className='p-5'>
                     <h5 className="text-2xl font-semibold">Deluxe Dark Room</h5>
-                <p className="text-gray-600 mt-5">3 adult(s) and 2 child(ern)</p>
-                <p className="text-gray-600 mt-5">"Deluxe Dark Room" - A sleek, upscale space with sophisticated ambiance and low lighting, catering to various experiences.</p>
+                <p className="text-gray-600 mt-5">{`3 adult(s) and 2 child(ern)`}</p>
+                <p className="text-gray-600 mt-5">{`"Deluxe Dark Room" - A sleek, upscale space with sophisticated ambiance and low lighting, catering to various experiences.`}</p>
                 <button className='w-full py-3 border-2 border-[#ffa000] mt-5 hover:bg-[#ffa000] hover:text-white duration-300'> Book Now</button>
                 </div>
             </div>
