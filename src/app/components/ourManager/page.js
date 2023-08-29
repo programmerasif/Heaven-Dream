@@ -31,6 +31,7 @@ const Manager = () =>{
                      </div>
             </div>
         </div>
+       
         </>
     )
 }

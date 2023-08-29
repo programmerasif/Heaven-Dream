@@ -1,7 +1,6 @@
 'use clint'
 import { FaArrowUpRightDots, FaCarRear, FaCookieBite, FaHouseFlag, FaPersonSwimming, FaWifi, } from "react-icons/fa6"
 import FacilitiesCard from "./facilitiesCard/page"
-import Galary from "./galary/page"
 
 
 const Facilities = () =>{
@@ -60,7 +59,7 @@ const facilities = [
             }
         </div>
         </div>
-        <Galary />
+        
         </>
     )
 }
