@@ -8,7 +8,7 @@ const Rooms = () =>{
         <>
         <div className='mt-32'>
 
-        <h5 className='text-3xl font-semibold text-center mb-2'>Best Rooms</h5>
+        <h5 className='text-4xl font-semibold text-center mb-2 text-[#0f172b]'>Best <span className='text-[#ffa000]'>Rooms</span> </h5>
         <h5 className='text-sm text-[#ffa000] mb-10 text-center'>The Luxury Hotel</h5>
         <div className="grid lg:grid-cols-4 md:grid-cols-2 grid-cols-1 justify-center items-center mx-auto w-full  gap-5 px-3 lg:w-[80%]">
             

@@ -52,7 +52,7 @@ const facilities = [
     return(
         <>
         <div className="mt-32 mb-32">
-        <h5 className="text-center text-3xl font-bold">Facilities </h5>
+        <h5 className="text-center text-4xl font-bold text-[#0f172b]">Top <span className="text-[#ffa000]">Facilities </span> </h5>
         <h5 className="text-sm text-[#ffa000] mb-10 text-center">Our Survices</h5>
         <div className=" grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 w-full md:w-[90%] lg:w-[80%] mx-auto px-2 gap-8 ">
             {
