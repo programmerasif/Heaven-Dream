@@ -12,7 +12,7 @@ const Rooms = () =>{
         <h5 className='text-sm text-[#ffa000] mb-10 text-center'>The Luxury Hotel</h5>
         <div className="grid lg:grid-cols-4 md:grid-cols-2 grid-cols-1 justify-center items-center mx-auto w-full  gap-5 px-3 lg:w-[80%]">
             
-            <div className="border-2 border-gray-100  hover:-translate-y-1 hover:scale-110 hover:shadow-md duration-300 hover:rounded-md">
+            <div className="border-2 border-gray-200  hover:-translate-y-1 hover:scale-110 hover:shadow-md duration-300 hover:rounded-md">
                 <img src='room1.jpg' className=' hover:rounded-md'/>
                 <div className='p-5'>
                     <h5 className="text-2xl font-semibold">Deluxe Dark Room</h5>
@@ -21,7 +21,7 @@ const Rooms = () =>{
                 <button className='w-full py-3 border-2 border-[#ffa000] mt-5 hover:bg-[#ffa000] hover:text-white duration-300'> Book Now</button>
                 </div>
             </div>
-            <div className="border-2 border-gray-100 hover:-translate-y-1 hover:scale-110 hover:shadow-md duration-300 hover:rounded-md">
+            <div className="border-2 border-gray-200 hover:-translate-y-1 hover:scale-110 hover:shadow-md duration-300 hover:rounded-md">
                 <img src='/room2.jpg' className='  hover:rounded-md'/>
                 <div className='p-5'>
                     <h5 className="text-2xl font-semibold">Deluxe Dark Room</h5>
@@ -30,7 +30,7 @@ const Rooms = () =>{
                 <button className='w-full py-3 border-2 border-[#ffa000] mt-5 hover:bg-[#ffa000] hover:text-white duration-300'> Book Now</button>
                 </div>
             </div>
-            <div className="border-2 border-gray-100 hover:-translate-y-1 hover:scale-110 hover:shadow-md duration-300 hover:rounded-md">
+            <div className="border-2 border-gray-200 hover:-translate-y-1 hover:scale-110 hover:shadow-md duration-300 hover:rounded-md">
                 
                 <img src='/room5.png' className=' hover:rounded-md'/>
               
@@ -41,7 +41,7 @@ const Rooms = () =>{
                 <button className='w-full py-3 border-2 border-[#ffa000] mt-5 hover:bg-[#ffa000] hover:text-white duration-300'> Book Now</button>
                 </div>
             </div>
-            <div className="border-2 border-gray-100 hover:-translate-y-1 hover:scale-110 hover:shadow-md duration-300 hover:rounded-md">
+            <div className="border-2 border-gray-200 hover:-translate-y-1 hover:scale-110 hover:shadow-md duration-300 hover:rounded-md">
                 <img src='room1.jpg' className=' hover:rounded-md'/>
                 <div className='p-5'>
                     <h5 className="text-2xl font-semibold">Deluxe Dark Room</h5>
