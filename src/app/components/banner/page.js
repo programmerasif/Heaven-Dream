@@ -5,14 +5,14 @@ import './style.css';
 export default function Banner() {
   
     return (
-      <main>
+      <main className='grid items-center banner h-[100vh] w-full'>
       
-      <div className='banner h-[75vh] md:h-[100vh] relative'>
+      <div className=' h-[75vh] md:h-[100vh]  relative'>
         <div className='text-white  flex flex-col  justify-center items-center h-full px-2 gap-2 mb:gap-5'>
             <h4 className='md:text-5xl text-2xl font-semibold text-center uppercase'>
           Wellcome to our Heaven-Dearm
             </h4>
-            <span className='text-gray-300 text-center text-sm md:text-xl w-full lg:w-[50%]'>
+            <span className='text-white text-center text-sm md:text-xl w-full lg:w-[50%]'>
             We are thrilled to extend a warm invitation to you, inviting you to experience the epitome of luxury and comfort at Haver Dream. 
             </span>
             <div className='text-white flex justify-center items-center gap-5 mt-8'>

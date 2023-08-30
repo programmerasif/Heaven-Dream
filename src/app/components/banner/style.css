@@ -1,7 +1,45 @@
-.banner{
-   
-    background-image:
-    linear-gradient(to bottom, rgba(0, 0, 0, 0.20), rgba(0, 0, 0, 0.43)),
-    url('../../assets/banner1.jpg');
+.banner {
+    width: 100%;
+    height: 100vh; /* Set the height to 100vh */
     background-size: cover;
+    position: relative;
+    animation: slideImg 20s linear infinite; /* Increased animation duration */
+}
+
+.banner::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.391), rgba(0, 0, 0, 0.462));
+    opacity: 1;
+    z-index: -1;
+    transition: opacity 0.5s ease; /* Apply smooth transition to opacity */
+}
+
+.banner:hover::before {
+    opacity: 0;
+}
+
+@keyframes slideImg {
+    0%, 16.66% {
+        background-image: url('../../assets/banner1.jpg');
+    }
+    20%, 36.66% {
+        background-image: url('../../assets/banner1.jpg');
+    }
+    40%, 56.66% {
+        background-image: url('../../assets/banner2.jpg');
+    }
+    60%, 76.66% {
+        background-image: url('../../assets/banner3.jpg');
+    }
+    80%, 96.66% {
+        background-image: url('../../assets/banner1.jpg');
+    }
+    100% {
+        background-image: url('../../assets/banner1.jpg');
+    }
 }
