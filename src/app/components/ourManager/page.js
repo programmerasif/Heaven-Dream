@@ -6,7 +6,7 @@ const Manager = () =>{
     return(
         <>
         <div>
-            <h5 className="text-[#0f172b] text-center text-3x' lg:text-4xl font-semibold mt-24">Meet <span className="text-[#ffa000]">Our-Manager</span> </h5>
+            <h5 className="text-[#0f172b] text-center text-3x lg:text-4xl font-semibold mt-24">Meet <span className="text-[#ffa000]">Our-Manager</span> </h5>
             <h5 className="text-center text-[#ffa000] text-xs lg:text-sm">Wellcome-speach</h5>
             <div className="flex flex-col-reverse lg:flex-row justify-center  items-center w-full px-4 lg:w-[80%] mx-auto">
                 
