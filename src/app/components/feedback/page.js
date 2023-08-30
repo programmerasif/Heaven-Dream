@@ -43,7 +43,7 @@ const FeedBack = () =>{
     return(
         <>
          <section >
-         <h5 className="text-[#0f172b] text-center text-3x lg:text-4xl font-semibold lg:mt-24">Happy <span className="text-[#ffa000]">Coustomer</span> </h5>
+         <h5 className="text-[#0f172b] text-center text-3x lg:text-4xl font-semibold mt-24">Happy <span className="text-[#ffa000]">Coustomer</span> </h5>
             <h5 className=" mb-24 text-center text-[#ffa000] text-xs lg:text-sm">{`Coustomer's Feedback`}</h5>
       <div className='w-full lg:w-[50%] mx-auto shadow-lg'>
       <Swiper

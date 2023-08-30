@@ -12,7 +12,7 @@ const Footer = () => {
                     <div className="flex flex-col">
 
                         <p className="text-sm text-gray-200">
-                            <Image src='/logo3.png' width={340} height={340} className="text-start animate-bounce" alt="logo">
+                            <Image src='/logo3.png' width={340} height={340} className="text-start" alt="logo">
 
                             </Image>
                         </p>

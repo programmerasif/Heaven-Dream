@@ -4,7 +4,7 @@
 
     return(
         <>
-        <div className='bgImg h-[50vh] lg:h-[60vh] mb-32 '>
+        <div className='bgImg h-[50vh] lg:h-[60vh] mt-24 '>
             <div className='text-4xl bg-[#0f172ba9] w-full md:w-[50%]  text-white flex justify-center h-full  items-center'>
                 <div className='lg:w-[60%] w-full px-5'>
                     <h5 className='text-2xl lg:text-5xl font-bold leading-relaxed'>We Are Committed <br /> To Good Taste</h5>

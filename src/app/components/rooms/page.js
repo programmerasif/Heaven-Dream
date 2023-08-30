@@ -6,7 +6,7 @@ const Rooms = () =>{
 
     return(
         <>
-        <div className='mt-32'>
+        <div className='mt-24'>
 
         <h5 className='text-3x lg:text-4xl  font-semibold text-center mb-2 text-[#0f172b]'>Best <span className='text-[#ffa000]'>Rooms</span> </h5>
         <h5 className='text-xs lg:text-sm text-[#ffa000] mb-10 text-center'>The Luxury Hotel</h5>
