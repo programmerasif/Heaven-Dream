@@ -1,6 +1,7 @@
 import Gallary from "./components/Gallary/page";
 import Banner from "./components/banner/page";
 import Facilities from "./components/facilities/page";
+import FeedBack from "./components/feedback/page";
 import Food from "./components/food/page";
 import Footer from "./components/footer/page";
 import Manager from "./components/ourManager/page";
@@ -18,6 +19,7 @@ export default function Home() {
     <Rooms />
     <Facilities />
     <Food />
+    <FeedBack />
     <Footer />
     </main>
   )
