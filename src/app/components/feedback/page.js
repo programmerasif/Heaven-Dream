@@ -12,28 +12,28 @@ import Image from 'next/image';
 const FeedBack = () =>{
   const feetdacks = [
     {
-      id:1,
+      id: 1,
       name : "Johan",
       feedack: "Enchanting from start to finish, Heaven-Dream Hotel is a true gem. The lavish decor and impeccable attention to detail create an atmosphere of luxury. With stunning views, delectable dining, and exceptional service, every moment feels like a dream turned reality. A stay at Heaven-Dream is an experience I'll treasure forever",
       reting: 4.5,
       image: '/feedback1.jpg'
     },
     {
-      id:1,
+      id: 2,
       name : "Thomas",
       feedack: "A stay at Heaven-Dream Hotel exceeded all expectations. The opulent decor and attention to detail are second to none, creating an ambiance of pure luxury. From the gourmet dining to the top-notch service, every aspect was flawless, making it a dream destination that I can't wait to revisit.",
       reting: 4.7,
       image: '/feedback2.jpg'
     },
     {
-      id:1,
+      id: 3,
       name : "Willam-Black",
       feedack: "Enchanting from start to finish, Heaven-Dream Hotel is a true gem. The lavish decor and impeccable attention to detail create an atmosphere of luxury. With stunning views, delectable dining, and exceptional service, every moment feels like a dream turned reality. A stay at Heaven-Dream is an experience I'll treasure forever",
       reting: 4.9,
       image: '/feedback3.jpg'
     },
     {
-      id:1,
+      id: 4,
       name : "Johan",
       feedack: "Enchanting from start to finish, Heaven-Dream Hotel is a true gem. The lavish decor and impeccable attention to detail create an atmosphere of luxury. With stunning views, delectable dining, and exceptional service, every moment feels like a dream turned reality. A stay at Heaven-Dream is an experience I'll treasure forever",
       reting: 4.5,
@@ -69,11 +69,11 @@ const FeedBack = () =>{
               <h5 className='text-2xl font-semibold'>{fBack.name}</h5>
               <p className='flex flex-col relative'>
                 
-                <Image src='/quote.png' width={50} height={50} className='me-auto absolute -top-5'></Image>
+                <Image alt='feedback' src='/quote.png' width={50} height={50} className='me-auto absolute -top-5'></Image>
               <span className='text-start px-14'>
               {fBack.feedack}
               </span>
-              <Image src='/double-quotes.png' width={50} height={50} className='ms-auto absolute bottom-0 right-0'></Image>
+              <Image alt='feedback' src='/double-quotes.png' width={50} height={50} className='ms-auto absolute bottom-0 right-0'></Image>
               
               </p>
               

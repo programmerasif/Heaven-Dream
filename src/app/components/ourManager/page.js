@@ -24,8 +24,8 @@ const Manager = () =>{
                 </div>
                 <div className="w-full lg:w-[40%] flex justify-center items-center relative">
                     <div>
-                    <Image src='/person1.png' width={1000} height={1000} className="z-10"></Image>
-                    <Image src='/blob7.png' width={1200} height={1200} className="absolute bottom-0 left-0 -z-10"></Image>
+                    <Image alt="manager" src='/person1.png' width={1000} height={1000} className="z-10"></Image>
+                    <Image alt="manager" src='/blob7.png' width={1200} height={1200} className="absolute bottom-0 left-0 -z-10"></Image>
 
                     </div>
                      </div>
