@@ -4,8 +4,10 @@ import Facilities from "./components/facilities/page";
 import FeedBack from "./components/feedback/page";
 import Food from "./components/food/page";
 import Footer from "./components/footer/page";
+import Offer from "./components/offer/page";
 import Manager from "./components/ourManager/page";
 import Rooms from "./components/rooms/page";
+import Roomss from "./roomss/page";
 
 
 
@@ -16,7 +18,8 @@ export default function Home() {
     <Banner />
     <Manager />
     <Gallary />
-    <Rooms />
+    <Roomss />
+    <Offer />
     <Facilities />
     <Food />
     <FeedBack />

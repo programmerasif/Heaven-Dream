@@ -1,0 +1,142 @@
+[
+    {
+      "id": 1,
+      "name": "Executive Suite with Ocean View",
+      "description": "Indulge in luxury with our Executive Suite, offering stunning ocean views and an abundance of space. This suite features a king-sized bed with premium linens for a restful night's sleep. The spacious living area is perfect for relaxation, and the private balcony provides breathtaking vistas of the ocean and coastline. Stay connected with complimentary high-speed Wi-Fi and enjoy entertainment on the large flat-screen TV. The suite also includes a well-appointed workspace for business travelers. In the bathroom, you'll find a deep soaking tub and a separate rainfall shower. Pamper yourself with our complimentary bath amenities. As a guest of the Executive Suite, you'll have access to our exclusive lounge, where you can enjoy complimentary breakfast and evening cocktails. This suite is ideal for honeymooners, couples, or anyone seeking an unforgettable oceanfront retreat.",
+      "pricePerNight": 500,
+      "capacity": "5 adult(s) and 2 child(ern)",
+      "amenities": [
+        "Free Wi-Fi",
+        "Flat-Screen TV",
+        "Air Conditioning",
+        "Workspace",
+        "Private Balcony",
+        "Deep Soaking Tub",
+        "Rainfall Shower",
+        "Complimentary Bath Amenities",
+        "Exclusive Lounge Access"
+      ],
+      "imageUrl": "https://i.ibb.co/WffMnKD/room4.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Deluxe Spa Suite",
+      "description": "Experience the ultimate relaxation in our Deluxe Spa Suite. This spacious suite features a luxurious king-sized bed with premium linens for a rejuvenating night's sleep. The centerpiece of this suite is the private spa area, complete with a whirlpool hot tub and a sauna. Unwind with a soothing soak or detoxify in the sauna. The suite also includes a separate living area with a cozy fireplace and a large flat-screen TV. Enjoy complimentary high-speed Wi-Fi and a well-appointed workspace for business needs. Step onto your private terrace to take in views of our lush garden. In the bathroom, you'll find a rainfall shower and complimentary spa-quality bath amenities. As a guest of the Deluxe Spa Suite, you'll receive priority access to our on-site spa services and complimentary breakfast.",
+      "pricePerNight": 600,
+      "capacity": "3 adult(s) and 2 child(ern)",
+      "amenities": [
+        "Free Wi-Fi",
+        "Flat-Screen TV",
+        "Air Conditioning",
+        "Workspace",
+        "Private Terrace",
+        "Whirlpool Hot Tub",
+        "Sauna",
+        "Complimentary Spa Amenities",
+        "Priority Spa Access",
+        "Fireplace"
+      ],
+      "imageUrl": "https://i.ibb.co/cLP5BVP/room10.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Family Suite",
+      "description": "Our Family Suite is perfect for a family getaway. This spacious suite features two separate bedrooms, each with a comfortable queen-sized bed. The living area is designed for relaxation with a large flat-screen TV and a cozy sofa. Stay connected with complimentary Wi-Fi and take advantage of the well-appointed workspace. The suite also includes a kitchenette with a refrigerator and microwave, making it convenient for family meals. In the bathroom, you'll find a combination bathtub and shower. As a guest of the Family Suite, enjoy access to our family-friendly amenities, including a children's play area and a family-sized dining table.",
+      "pricePerNight": 350,
+      "capacity": "5 adult(s) and 2 child(ern)",
+      "amenities": [
+        "Free Wi-Fi",
+        "Flat-Screen TV",
+        "Air Conditioning",
+        "Workspace",
+        "Kitchenette",
+        "Children's Play Area",
+        "Family Dining Area"
+      ],
+      "imageUrl": "https://i.ibb.co/r3CWMBb/room4.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Presidential Suite",
+      "description": "Indulge in the epitome of luxury with our Presidential Suite. This expansive suite offers a king-sized bed in a separate bedroom, a spacious living area with elegant furnishings, and a dining area with seating for six. The private terrace provides sweeping views of the city skyline. Stay connected with complimentary high-speed Wi-Fi and enjoy entertainment on multiple flat-screen TVs throughout the suite. The suite features a fully equipped kitchen with modern appliances and a luxurious bathroom with a deep soaking tub and a separate rainfall shower. Guests of the Presidential Suite receive exclusive access to our top-tier amenities, including a private concierge and complimentary room service.",
+      "pricePerNight": 800,
+      "capacity": "2 adult(s) and 2 child(ern)",
+      "amenities": [
+        "Free Wi-Fi",
+        "Multiple Flat-Screen TVs",
+        "Air Conditioning",
+        "Workspace",
+        "Private Terrace",
+        "Fully Equipped Kitchen",
+        "Deep Soaking Tub",
+        "Rainfall Shower",
+        "Exclusive Concierge",
+        "Complimentary Room Service"
+      ],
+      "imageUrl": "https://i.ibb.co/F0m6M8z/room2.jpg"
+    },
+    
+    {
+      "id": 7,
+      "name": "Panoramic View Studio",
+      "description": "Enjoy breathtaking panoramic views in our studio suite. This suite features a comfortable queen-sized bed with a view of the city skyline through floor-to-ceiling windows. The open layout includes a kitchenette with a mini-fridge and microwave, perfect for light meals. Stay connected with complimentary Wi-Fi and unwind in front of the flat-screen TV. Step onto your private balcony and take in the stunning cityscape. This suite is ideal for solo travelers or couples seeking a cozy and convenient stay.",
+      "pricePerNight": 250,
+      "capacity": "2 adult(s) and 2 child(ern)",
+      "amenities": [
+        "Free Wi-Fi",
+        "Flat-Screen TV",
+        "Air Conditioning",
+        "Kitchenette",
+        "Private Balcony",
+        "Panoramic City View"
+      ],
+      "imageUrl": "https://i.ibb.co/THtM18y/room5.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Family Bungalow",
+      "description": "Our Family Bungalow is a perfect retreat for families seeking a cozy and spacious accommodation. This standalone bungalow features two separate bedrooms, each with a queen-sized bed. The living area offers a large flat-screen TV and a comfortable sofa. Stay connected with complimentary Wi-Fi and enjoy meals together in the dining area. The bungalow also includes a kitchen with a stove and refrigerator. In the bathroom, you'll find a combination bathtub and shower. Families can enjoy our outdoor picnic area and access to a nearby playground. It's the perfect choice for a family vacation.",
+      "pricePerNight": 350,
+      "capacity": "5 adult(s) and 3 child(ern)",
+      "amenities": [
+        "Free Wi-Fi",
+        "Flat-Screen TV",
+        "Air Conditioning",
+        "Kitchen",
+        "Dining Area",
+        "Outdoor Picnic Area",
+        "Playground Access"
+      ],
+      "imageUrl": "https://i.ibb.co/j8yJ65V/room6.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Classic Twin Room",
+      "description": "Our Classic Twin Room offers comfort and convenience for two travelers. Each room features two comfortable twin beds, perfect for friends or colleagues. Stay connected with complimentary Wi-Fi and enjoy entertainment on the flat-screen TV. The room also includes a workspace with a desk and chair. In the bathroom, you'll find a combination bathtub and shower. This room is ideal for those looking for a comfortable and affordable stay.",
+      "pricePerNight": 150,
+      "capacity": "4 adult(s) and 2 child(ern)",
+      "amenities": [
+        "Free Wi-Fi",
+        "Flat-Screen TV",
+        "Air Conditioning",
+        "Workspace",
+        "Two Twin Beds"
+      ],
+      "imageUrl": "https://i.ibb.co/mRDdPrY/room8.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Economy Room",
+      "description": "Our Economy Room offers a budget-friendly option for solo travelers. This cozy room features a comfortable single bed, ideal for a restful night's sleep. Stay connected with complimentary Wi-Fi and enjoy entertainment on the flat-screen TV. The room is equipped with air conditioning for your comfort. The compact design is perfect for budget-conscious travelers seeking a comfortable stay.",
+      "pricePerNight": 80,
+      "capacity": "3 adult(s) and 2 child(ern)",
+      "amenities": [
+        "Free Wi-Fi",
+        "Flat-Screen TV",
+        "Air Conditioning",
+        "Single Bed"
+      ],
+      "imageUrl": "https://i.ibb.co/Czs1fTm/room9.jpg"
+    }
+  ]
+  

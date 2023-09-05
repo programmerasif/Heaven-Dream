@@ -4,6 +4,7 @@ import AOS from 'aos';
 import 'aos/dist/aos.css'; 
 import img from '../../assets/banner1.jpg'
 import './style.css'
+import Link from 'next/link';
 
 const Rooms = () =>{
 
@@ -35,7 +36,7 @@ const Rooms = () =>{
                     <h5 className="text-2xl font-semibold">Deluxe Dark Room</h5>
                 <p className="text-gray-600 mt-5">{`3 adult(s) and 2 child(ern)`}</p>
                 <p className="text-gray-600 mt-5">{`"Deluxe Dark Room" - A sleek, upscale space with sophisticated ambiance and low lighting, catering to various experiences.`}</p>
-                <button className='w-full py-3 border-2 border-[#ffa000] mt-5 hover:bg-[#ffa000] hover:text-white duration-300'> Book Now</button>
+                <Link href='/id'><button className='w-full py-3 border-2 border-[#ffa000] mt-5 hover:bg-[#ffa000] hover:text-white duration-300'> Book Now</button></Link>
                 </div>
             </div>
             <div data-aos="fade-up" className="border-2 border-gray-200 hover:-translate-y-1 hover:scale-110 hover:shadow-md duration-300 hover:rounded-md">
@@ -46,7 +47,7 @@ const Rooms = () =>{
                     <h5 className="text-2xl font-semibold">Deluxe Dark Room</h5>
                 <p className="text-gray-600 mt-5">{`3 adult(s) and 2 child(ern)`}</p>
                 <p className="text-gray-600 mt-5">{`"Deluxe Dark Room" - A sleek, upscale space with sophisticated ambiance and low lighting, catering to various experiences.`}</p>
-                <button className='w-full py-3 border-2 border-[#ffa000] mt-5 hover:bg-[#ffa000] hover:text-white duration-300'> Book Now</button>
+                <Link href='/id'><button className='w-full py-3 border-2 border-[#ffa000] mt-5 hover:bg-[#ffa000] hover:text-white duration-300'> Book Now</button></Link>
                 </div>
             </div>
             <div data-aos="fade-up" className="border-2 border-gray-200 hover:-translate-y-1 hover:scale-110 hover:shadow-md duration-300 hover:rounded-md">
@@ -55,7 +56,7 @@ const Rooms = () =>{
                     <h5 className="text-2xl font-semibold">Deluxe Dark Room</h5>
                 <p className="text-gray-600 mt-5">{`3 adult(s) and 2 child(ern)`}</p>
                 <p className="text-gray-600 mt-5">{`Deluxe Dark Room" - A sleek, upscale space with sophisticated ambiance and low lighting, catering to various experiences.`}</p>
-                <button className='w-full py-3 border-2 border-[#ffa000] mt-5 hover:bg-[#ffa000] hover:text-white duration-300'> Book Now</button>
+                <Link href="/rooms/asd">go to</Link>
                 </div>
             </div>
            

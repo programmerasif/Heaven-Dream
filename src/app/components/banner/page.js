@@ -19,7 +19,7 @@ export default function Banner() {
             <h4  data-aos="fade-up"
                  data-aos-anchor-placement="top-bottom"
                  data-aos-duration="700"
-                 className='md:text-5xl text-2xl font-semibold text-center uppercase'>
+                 className='md:text-5xl text-2xl md:font-semibold lg:font-bold text-center uppercase'>
           Wellcome to our Heaven-Dearm
             </h4>
             <span
