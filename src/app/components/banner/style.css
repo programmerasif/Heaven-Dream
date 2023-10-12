@@ -26,20 +26,26 @@
 @keyframes slideImg {
     0%, 16.66% {
         background-image: url('../../assets/banner1.jpg');
+        width: 100%;
     }
     20%, 36.66% {
         background-image: url('../../assets/banner1.jpg');
+        width: 100%;
     }
     40%, 56.66% {
         background-image: url('../../assets/banner2.jpg');
+        width: 100%;
     }
     60%, 76.66% {
         background-image: url('../../assets/banner3.jpg');
+        width: 100%;
     }
     80%, 96.66% {
         background-image: url('../../assets/banner1.jpg');
+        width: 100%;
     }
     100% {
         background-image: url('../../assets/banner1.jpg');
+        width: 100%;
     }
 }

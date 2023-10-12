@@ -12,7 +12,7 @@ export default function Banner() {
     AOS.init(); // Initialize AOS
   }, []);
     return (
-      <main className='grid items-center banner h-[100vh] w-full'>
+      <main className='grid items-center banner h-[100vh] w-screen'>
       
       <div className=' h-[75vh] md:h-[100vh]  relative'>
         <div className='text-white  flex flex-col  justify-center items-center h-full px-2 gap-2 mb:gap-5'>

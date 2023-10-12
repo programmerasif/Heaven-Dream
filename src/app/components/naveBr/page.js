@@ -16,7 +16,7 @@ const Navbr = () =>{
     return(
         <>
        
-        <nav className="bg-[#0f172b] top-0 text-white shadow-lg p-4 flex md:flex-row flex-row-reverse md:justify-around items-center w-[100%] fixed z-20">
+        <nav className="bg-[#0f172b] top-0 text-white shadow-lg p-4 flex md:flex-row flex-row-reverse md:justify-around items-center w-screen fixed z-20">
       <div className=" text-xl h-full  font-semibold md:mb-0">
 
      <Link href='/'>
@@ -39,6 +39,9 @@ const Navbr = () =>{
         <Link href='/allRooms'><li className="cursor-pointer p-2">Rooms</li></Link>
         <li className=" cursor-pointer p-2">Services</li>
         <li className=" cursor-pointer p-2">Contact</li>
+        <Link href='/login'><li className=" cursor-pointer p-2">Login</li></Link>
+        <Link href='/register'><li className=" cursor-pointer p-2">Register</li></Link>
+        
         <button
         onClick={toggleMenu}
         className="md:hidden me-auto absolute top-0 p-3 shadow-sm rounded-md border left-0 text-black focus:outline-none"

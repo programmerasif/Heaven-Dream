@@ -12,7 +12,6 @@ import Roomss from "./roomss/page";
 
 
 export default function Home() {
-  
   return (
     <main>
     <Banner />
