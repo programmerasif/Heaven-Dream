@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import React from 'react';
-import restaurant from '../../assets/restaurant.jpeg'
+import restaurant from '../../assets/restaurant ff.jpeg'
 import spa from '../../assets/spa.jpg'
 
 const HighlitedFasalitie = () => {

@@ -40,7 +40,7 @@ const BookTable = () => {
                     <div className='text-center text-2xl font-semibold uppercase mb-2'>
                     {table.name}
                     </div>
-                    <div className='bg-[#ffa000] px-6 py-2 md:px-12 md:py-4 font-bold rounded-full hover:bg-white hover:text-[#ffa000] hover:ring-2 hover:ring-[#ffa000] duration-300'>
+                    <div className='bg-[#ffa000] px-6 py-2 md:px-12 text-white font-bold rounded-full hover:bg-white hover:text-[#ffa000] hover:ring-2 hover:ring-[#ffa000] duration-300'>
                         BOOK
                     </div>
                     </div>

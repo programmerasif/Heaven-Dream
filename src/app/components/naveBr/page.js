@@ -37,8 +37,8 @@ const Navbr = () =>{
         <Link href='/'><li className=" cursor-pointer p-2 ">Home</li></Link>
         
         <Link href='/allRooms'><li className="cursor-pointer p-2">Rooms</li></Link>
-        <li className=" cursor-pointer p-2">Services</li>
-        <li className=" cursor-pointer p-2">Contact</li>
+        {/* <li className=" cursor-pointer p-2">Services</li> */}
+        {/* <li className=" cursor-pointer p-2">Contact</li> */}
         <Link href='/login'><li className=" cursor-pointer p-2">Login</li></Link>
         <Link href='/register'><li className=" cursor-pointer p-2">Register</li></Link>
         
