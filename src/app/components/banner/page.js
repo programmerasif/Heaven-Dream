@@ -4,6 +4,7 @@ import AOS from 'aos';
 import 'aos/dist/aos.css'; 
 import { FaPhoneVolume } from 'react-icons/fa6';
 import './style.css';
+import Link from 'next/link';
 
 
 export default function Banner() {
@@ -32,8 +33,14 @@ export default function Banner() {
             <div data-aos="fade-up"
                  data-aos-anchor-placement="top-bottom"
                  data-aos-duration="1600" className='text-white flex justify-center items-center gap-5 mt-8'>
+                <Link href='/allRooms'>
                 <button className='bg-[#ffa000] px-6 py-2 md:px-12 md:py-4 font-bold rounded-full hover:bg-white hover:text-[#ffa000] duration-300'>Book-room</button>
+                </Link>
+                <Link href='/allRooms'>
                 <button className='border-2 border-white px-6 py-2 md:px-12 md:py-4 font-bold rounded-full hover:bg-white hover:text-[#ffa000] duration-300'>See-room</button>
+                </Link>
+                
+                
             </div>
             <div
               data-aos="fade-right"
